@@ -1,0 +1,27 @@
+NEWS
+
+4
+ENHANCEMENTS:
+* Added layout options: horizontal, vertical, mixed, fortyfive, random
+* Added color options
+* Added repeated words toggle
+* New icons
+* Use white background for image
+
+3
+BUG FIX:
+* Fixed font menu palette
+
+2
+
+ENHANCEMENTS:
+* New Spanish translations (thanks to Irenarco)
+* Load image on start
+* Font selector
+
+BUG FIX:
+* Unicode fonts
+
+1
+
+New project
